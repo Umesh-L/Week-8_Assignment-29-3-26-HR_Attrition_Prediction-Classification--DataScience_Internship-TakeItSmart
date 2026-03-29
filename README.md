@@ -35,7 +35,17 @@ Predict employee attrition (Yes/No) from HR features such as age, compensation, 
 - Model selection: Logistic Regression chosen for best generalization to test data.
 
 ## Assets
-- Output screenshots: see Output snapshots/ for plots and comparison tables.
+- Output screenshots:
+  - <img width="689" height="495" alt="age distribution graph" src="https://github.com/user-attachments/assets/a7a89e77-4081-4896-b1ab-1f5e182d9a08" />
+  - <img width="700" height="507" alt="business travel count graph" src="https://github.com/user-attachments/assets/b327b586-da36-4b7f-872d-b6725b6a5a92" />
+  - <img width="712" height="499" alt="monthly income vs attrition graph" src="https://github.com/user-attachments/assets/fed9ce5a-e8e7-4234-9326-f114d17ba192" />
+  - <img width="886" height="512" alt="department vs attrition graph" src="https://github.com/user-attachments/assets/e93ad8a9-ab76-4b83-91a3-b3616a777b7b" />
+  - <img width="903" height="713" alt="correlation heatmap" src="https://github.com/user-attachments/assets/075e792e-13e2-46ad-8a06-50e44fb3e480" />
+  - <img width="505" height="351" alt="evaluate_models-confusion matrix" src="https://github.com/user-attachments/assets/3d2e446e-8438-4fac-bb01-bd53f9bc4235" />
+  - <img width="409" height="110" alt="cross validation result" src="https://github.com/user-attachments/assets/b47d4e93-d3b2-44eb-953d-b3a78f589841" />
+  - <img width="849" height="234" alt="model performance comparision table" src="https://github.com/user-attachments/assets/ba76be78-505a-4305-879e-5d93c971ec5d" />
+  - <img width="885" height="255" alt="best model" src="https://github.com/user-attachments/assets/dd1ac807-ff4f-4886-b41e-658f1a161b0b" />
+
 - Explanation video: see Screen recording/ for a narrated walkthrough of the workflow.
 
 ## Key results
