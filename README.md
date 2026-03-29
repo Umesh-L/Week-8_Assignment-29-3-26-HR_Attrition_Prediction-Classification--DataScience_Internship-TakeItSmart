@@ -1,6 +1,6 @@
 # HR Attrition Prediction (Classification)
 
-Predict employee attrition (Yes/No) from HR features such as age, compensation, role, satisfaction, and tenure. The full workflow lives in the notebook and includes EDA, preprocessing, modeling, and model selection.
+Predict employee attrition (Yes/No) from HR features such as age, compensation, role, satisfaction, and tenure. The full workflow lives in the notebook and includes EDA, preprocessing, modeling, and model selection. Built for the Week-8 Assignment (29-3-26) of the Take It Smart Data Science internship.
 
 ## Repository contents
 - Notebook: [HR_Attrition_Prediction_(Classificaiton).ipynb](HR_Attrition_Prediction_(Classificaiton).ipynb)
