@@ -46,7 +46,8 @@ Predict employee attrition (Yes/No) from HR features such as age, compensation, 
   - <img width="849" height="234" alt="model performance comparision table" src="https://github.com/user-attachments/assets/ba76be78-505a-4305-879e-5d93c971ec5d" />
   - <img width="885" height="255" alt="best model" src="https://github.com/user-attachments/assets/dd1ac807-ff4f-4886-b41e-658f1a161b0b" />
 
-- Explanation video: see Screen recording/ for a narrated walkthrough of the workflow.
+- Explanation video:
+https://github.com/user-attachments/assets/0e65447b-4046-4525-9f18-811786d87525
 
 ## Key results
 - Logistic Regression (final choice): Accuracy ≈ 0.82, F1 ≈ 0.46, Recall ≈ 0.62; best balance and recall on test data.
